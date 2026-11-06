@@ -1,0 +1,16 @@
+node_modules
+dist
+.vercel
+.grok
+.tanstack
+data
+artifacts
+attachments
+screenshots
+public/card-preview
+.project_id
+*.log
+.env
+.env.*
+
+.node_modules.lock
